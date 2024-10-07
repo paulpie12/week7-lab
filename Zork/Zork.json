@@ -1,0 +1,37 @@
+{
+  "World": {
+    "StartingLocation": "West of House",
+    "Rooms": [
+      {
+        "Name": "West of House",
+        "Description": "You are standing in an open field west of a white house, with a boarded front door.",
+        "Neighbors": {
+          "North": "North of House",
+          "South": "South of House",
+          "West": "Forest"
+        }
+      },
+      {
+        "Name": "North of House",
+        "Description": "You are facing the north side of a white house.",
+        "Neighbors": {
+          "South": "West of House"
+        }
+      },
+      {
+        "Name": "South of House",
+        "Description": "You are standing next to the south side of a white house.",
+        "Neighbors": {
+          "North": "West of House"
+        }
+      },
+      {
+        "Name": "Forest",
+        "Description": "This is a forest with trees in all directions.",
+        "Neighbors": {
+          "East": "West of House"
+        }
+      }
+    ]
+  }
+}

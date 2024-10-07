@@ -1,0 +1,10 @@
+C:\Users\sters\OneDrive\Documents\zork\Zork\bin\Debug\Zork.exe.config
+C:\Users\sters\OneDrive\Documents\zork\Zork\bin\Debug\Zork.exe
+C:\Users\sters\OneDrive\Documents\zork\Zork\bin\Debug\Zork.pdb
+C:\Users\sters\OneDrive\Documents\zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+C:\Users\sters\OneDrive\Documents\zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+C:\Users\sters\OneDrive\Documents\zork\Zork\obj\Debug\Zork.exe
+C:\Users\sters\OneDrive\Documents\zork\Zork\obj\Debug\Zork.pdb
+C:\Users\sters\OneDrive\Documents\zork\Zork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sters\OneDrive\Documents\zork\Zork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sters\OneDrive\Documents\zork\Zork\obj\Debug\Zork.csproj.Up2Date
